@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name         = "CSLockerUI"
   s.version      = "0.15.3"
-  s.source       = {:tag => "v0.15.3", :git => "https://github.com/Ceskasporiteln/cs-locker-ui-sdk-ios.git" }
+  s.source       = {:tag => "v0.15.3", :git => "https://github.com/Ceskasporiteln/cs-locker-ui-sdk-ios-internal.git" }
   s.dependency   "CSCoreSDK", "~> 0.15.2"
   s.summary      = "User interface for Locker from CSCoreSDK"
   s.description  = "UI wrapper for Locker functionality over Locker from CoreSDK"
